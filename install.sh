@@ -1,3 +1,5 @@
+#!/bin/sh
+
 zshrc() {
     echo "==========================================================="
     echo "             cloning zsh-autosuggestions                   "
